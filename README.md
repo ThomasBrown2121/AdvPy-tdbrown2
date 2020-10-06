@@ -10,5 +10,3 @@
     - The application works as needed for the user.
     - I will provide screenshots of the game below.
     - Grade 100/100.
-    
-  ![SS1ProgramPython.png](SS1ProgramPython.png)
